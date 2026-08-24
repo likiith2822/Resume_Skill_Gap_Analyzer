@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "role": "Full Stack Developer",
+    "category": "Software Engineering",
+    "required_skills": ["React.js", "Python", "Flask", "SQLite", "REST APIs", "Git", "HTML5", "CSS3", "JavaScript"],
+    "description": "Develop full-stack web applications with Python Flask and modern React."
+  },
+  {
+    "id": 2,
+    "role": "AI / ML Engineer",
+    "category": "Artificial Intelligence",
+    "required_skills": ["Python", "PyTorch", "Scikit-learn", "NLP", "spaCy", "Sentence Transformers", "Gemini API", "Data Preprocessing"],
+    "description": "Design and build NLP-driven machine learning models and semantic similarity pipelines."
+  },
+  {
+    "id": 3,
+    "role": "Data Analyst",
+    "category": "Data Science",
+    "required_skills": ["Python", "SQL", "Pandas", "Chart.js", "Data Visualization", "Statistical Analysis"],
+    "description": "Extract insights from datasets and create interactive visual analytics reports."
+  }
+]

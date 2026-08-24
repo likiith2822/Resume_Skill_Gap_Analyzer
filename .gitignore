@@ -1,0 +1,17 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env
+.env.local
+.env.*.local
+!.env.example
+__pycache__/
+*.py[cod]
+*$py.class
+backend/database/*.db
+backend/database/*.db-journal
+backend/uploads/*
+!backend/uploads/.gitkeep

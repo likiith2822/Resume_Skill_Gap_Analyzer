@@ -1,0 +1,651 @@
+job_role,experience_years,education_level,skills,salary,is_demonstration
+Cloud Engineer,0.8,Bachelor's Degree,"Google Cloud Platform (GCP), Microservices, CI/CD, AWS, Linux, DevOps, System Design",117500,True
+DevOps Engineer,7.4,Master's Degree,"Nginx, AWS, Linux, Terraform",165500,True
+Frontend Developer,1.7,Bachelor's Degree,"REST APIs, Git, TypeScript",90000,True
+Backend Developer,5.5,High School / Bootcamp,"PostgreSQL, Node.js, Go, FastAPI",125500,True
+AI Engineer,2.6,High School / Bootcamp,"TensorFlow, RAG, Natural Language Processing, Deep Learning, Vector Databases, LangChain, Hugging Face, PyTorch",146500,True
+Full Stack Developer,0.9,Master's Degree,"HTML5, Node.js, MongoDB, Tailwind CSS, CSS3, PostgreSQL, TypeScript, React, Rust",115500,True
+Cloud Engineer,4.1,Bachelor's Degree,"AWS, Google Cloud Platform (GCP), Microsoft Azure",136000,True
+Software Engineer,3.6,Master's Degree,"System Design, Java, Linux",118000,True
+Frontend Developer,2.5,Ph.D.,"Git, TypeScript, CSS3, Redux",118500,True
+Frontend Developer,6.3,Master's Degree,"HTML5, JavaScript, Responsive Design, CSS3, Git, Large Language Models",138000,True
+Backend Developer,1.5,Ph.D.,"System Design, Go, PostgreSQL, REST APIs, MongoDB, FastAPI, SQL",133000,True
+Software Engineer,12.6,High School / Bootcamp,"Python, SQL, Java",148500,True
+Data Scientist,3.5,Bachelor's Degree,"Machine Learning, Data Visualization, NumPy, SQL, Large Language Models",128000,True
+Backend Developer,0.7,Master's Degree,"Go, System Design, FastAPI",111000,True
+Full Stack Developer,1.2,Associate's Degree,"REST APIs, JavaScript, TypeScript, Node.js, React, CSS3, PostgreSQL, Tailwind CSS",105000,True
+AI Engineer,8.8,Ph.D.,"Deep Learning, Hugging Face, TensorFlow, Natural Language Processing, RAG, PyTorch, Python",234000,True
+ML Engineer,8.0,Bachelor's Degree,"MLOps, Machine Learning, Data Pipelines, PyTorch",170500,True
+DevOps Engineer,7.1,Bachelor's Degree,"Nginx, Terraform, Linux, Prometheus & Grafana, Microservices",155500,True
+Mobile Developer,0.2,Bachelor's Degree,"TypeScript, Swift, Mobile UI, React Native, Flutter, Git, Firebase, Go",91500,True
+Data Engineer,7.5,Master's Degree,"PostgreSQL, Kafka, SQL",160000,True
+Frontend Developer,2.9,Bachelor's Degree,"Git, REST APIs, CSS3, Redux, JavaScript, Large Language Models",110500,True
+Data Scientist,2.9,Master's Degree,"Python, SQL, Data Wrangling, Pandas, Scikit-Learn, A/B Testing, Machine Learning",137500,True
+Full Stack Developer,0.7,Master's Degree,"Node.js, MongoDB, Git, TypeScript, HTML5",112000,True
+Cloud Engineer,0.9,Master's Degree,"AWS, Microsoft Azure, Terraform, CI/CD, Linux, DevOps",123000,True
+Backend Developer,5.3,Master's Degree,"Go, Microservices, MongoDB, PostgreSQL",144500,True
+DevOps Engineer,7.7,Bachelor's Degree,"Nginx, Shell / Bash, AWS, Docker, Prometheus & Grafana, Terraform, Kubernetes",164000,True
+Data Engineer,0.9,Bachelor's Degree,"SQL, AWS, Apache Spark, Kafka, Python, Data Pipelines, Pandas, Go",109000,True
+Frontend Developer,10.7,Bachelor's Degree,"TypeScript, CSS3, Git, Tailwind CSS, HTML5",142500,True
+DevOps Engineer,4.4,Master's Degree,"Microservices, Git, Linux, Nginx",150500,True
+AI Engineer,5.8,Bachelor's Degree,"TensorFlow, PyTorch, Large Language Models, Transformers, Python, Vector Databases",175000,True
+Full Stack Developer,2.9,Bachelor's Degree,"CSS3, Tailwind CSS, Git, Node.js, React, JavaScript, MongoDB, Docker",124000,True
+DevOps Engineer,7.3,Bachelor's Degree,"Microservices, AWS, Prometheus & Grafana, Nginx, Shell / Bash, Linux, CI/CD",172500,True
+Frontend Developer,6.2,Master's Degree,"REST APIs, HTML5, CSS3, Git, JavaScript, React, TypeScript",135500,True
+Full Stack Developer,2.8,Bachelor's Degree,"CSS3, Git, PostgreSQL, JavaScript",116000,True
+Frontend Developer,1.9,Bachelor's Degree,"Git, HTML5, REST APIs, TypeScript, React, Responsive Design, CSS3, JavaScript",100000,True
+Frontend Developer,8.2,Bachelor's Degree,"React, JavaScript, CSS3, HTML5, Responsive Design, TypeScript",127500,True
+Data Scientist,1.5,Bachelor's Degree,"Pandas, Machine Learning, SQL, NumPy",109500,True
+Cloud Engineer,2.8,Bachelor's Degree,"Kubernetes, Microservices, Google Cloud Platform (GCP), AWS, Microsoft Azure, System Design, Docker, CI/CD, Rust",155500,True
+Data Scientist,12.4,Bachelor's Degree,"Pandas, Data Visualization, A/B Testing, Scikit-Learn, Machine Learning, Data Wrangling",169000,True
+Cloud Engineer,3.4,Bachelor's Degree,"CI/CD, Terraform, AWS, Linux, System Design, Microsoft Azure, Google Cloud Platform (GCP), Docker",149000,True
+Backend Developer,2.5,High School / Bootcamp,"Node.js, Go, REST APIs, Microservices",105000,True
+DevOps Engineer,5.5,Bachelor's Degree,"Microservices, AWS, Prometheus & Grafana, Git, CI/CD, Shell / Bash, Linux, Terraform",160500,True
+AI Engineer,2.2,Master's Degree,"TensorFlow, Natural Language Processing, Vector Databases, Hugging Face, Deep Learning, Transformers, Large Language Models, LangChain",164000,True
+Data Scientist,5.5,High School / Bootcamp,"Pandas, Machine Learning, SQL, Python, Scikit-Learn",127500,True
+ML Engineer,4.7,Associate's Degree,"MLOps, Docker, Machine Learning",134000,True
+Backend Developer,2.9,Bachelor's Degree,"REST APIs, Microservices, FastAPI, PostgreSQL, System Design, Java, Docker",120000,True
+Cloud Engineer,9.7,Bachelor's Degree,"Docker, Microsoft Azure, DevOps, Google Cloud Platform (GCP), Large Language Models",168500,True
+Data Scientist,1.8,Bachelor's Degree,"A/B Testing, Data Wrangling, NumPy, Data Visualization, Python",115500,True
+Cloud Engineer,1.4,Bachelor's Degree,"Linux, Google Cloud Platform (GCP), System Design, Kubernetes, Terraform",123000,True
+AI Engineer,4.4,High School / Bootcamp,"Deep Learning, Vector Databases, Python, Large Language Models",146500,True
+Frontend Developer,2.2,Ph.D.,"REST APIs, TypeScript, Responsive Design, React, HTML5, Redux",125500,True
+AI Engineer,5.3,High School / Bootcamp,"Transformers, Large Language Models, Deep Learning, Go",154500,True
+AI Engineer,4.1,Bachelor's Degree,"RAG, Transformers, Hugging Face, Deep Learning",153000,True
+Mobile Developer,7.1,Bachelor's Degree,"Swift, TypeScript, Mobile UI, React Native",135500,True
+Software Engineer,2.7,Master's Degree,"Git, REST APIs, CI/CD, Linux, Java, Algorithms, System Design, Docker",133000,True
+Cyber Security Analyst,5.9,Bachelor's Degree,"Cryptography, Python, Security Compliance, Penetration Testing, Incident Response, AWS, Networking",140000,True
+ML Engineer,6.5,Bachelor's Degree,"MLOps, Python, TensorFlow, Docker",162500,True
+DevOps Engineer,8.9,Bachelor's Degree,"AWS, Kubernetes, Prometheus & Grafana, Microservices, Linux, CI/CD, Docker",170000,True
+AI Engineer,6.6,Bachelor's Degree,"LangChain, PyTorch, Transformers, Deep Learning, TensorFlow, RAG, Natural Language Processing, Python",187500,True
+Data Scientist,1.8,Bachelor's Degree,"Python, A/B Testing, Statistical Modeling, Data Wrangling, Pandas",121000,True
+AI Engineer,2.0,Bachelor's Degree,"LangChain, Vector Databases, Natural Language Processing, Hugging Face, Large Language Models, PyTorch, Transformers",147000,True
+Software Engineer,7.4,Bachelor's Degree,"Microservices, Git, REST APIs, System Design, Algorithms",143500,True
+Full Stack Developer,5.3,Bachelor's Degree,"Express, JavaScript, MongoDB, CSS3, Git, Docker, REST APIs, HTML5",146000,True
+Frontend Developer,7.1,Master's Degree,"HTML5, CSS3, React, Tailwind CSS, Rust",140500,True
+Cloud Engineer,2.8,Associate's Degree,"Terraform, CI/CD, Microsoft Azure, Docker, Google Cloud Platform (GCP)",129000,True
+ML Engineer,1.2,Ph.D.,"Pandas, TensorFlow, Machine Learning, Docker, Data Pipelines",141000,True
+Backend Developer,8.2,High School / Bootcamp,"Node.js, Microservices, MongoDB, PostgreSQL, REST APIs, FastAPI, SQL",143000,True
+Software Engineer,1.1,Master's Degree,"CI/CD, Java, Microservices, Algorithms, Git, Large Language Models",117500,True
+Data Scientist,3.9,Bachelor's Degree,"Data Wrangling, Data Visualization, Scikit-Learn, Python, Statistical Modeling, Pandas",129000,True
+Data Scientist,1.5,Ph.D.,"Statistical Modeling, NumPy, Pandas",131500,True
+Full Stack Developer,7.5,Master's Degree,"JavaScript, Express, React, MongoDB, REST APIs, Docker, CSS3, Rust",168500,True
+Data Scientist,13.7,Associate's Degree,"Tableau, SQL, Data Wrangling, Machine Learning, NumPy, Pandas",176500,True
+Software Engineer,9.7,Master's Degree,"Git, CI/CD, Python, Linux, Algorithms, REST APIs, SQL",151500,True
+Software Engineer,3.0,Bachelor's Degree,"SQL, REST APIs, Linux, Git, Algorithms, CI/CD, System Design",117500,True
+Backend Developer,0.7,Master's Degree,"Microservices, Go, REST APIs, MongoDB, System Design, FastAPI",118500,True
+DevOps Engineer,6.8,Master's Degree,"Docker, Microservices, Shell / Bash, AWS, Prometheus & Grafana, Git, CI/CD",177000,True
+DevOps Engineer,6.2,Bachelor's Degree,"Kubernetes, Microservices, Shell / Bash, CI/CD, Git",151000,True
+Backend Developer,3.3,Master's Degree,"SQL, FastAPI, Docker, Python, PostgreSQL, System Design, Node.js",138500,True
+Frontend Developer,1.6,Master's Degree,"TypeScript, Git, HTML5",99000,True
+Data Scientist,2.9,Bachelor's Degree,"Python, SQL, Scikit-Learn, Machine Learning, Statistical Modeling, NumPy, Data Visualization",128000,True
+AI Engineer,2.9,Bachelor's Degree,"Hugging Face, RAG, Large Language Models, Python, PyTorch, Natural Language Processing, Vector Databases, Docker",158500,True
+Full Stack Developer,9.5,Bachelor's Degree,"REST APIs, Docker, Node.js, Git, PostgreSQL, HTML5, Go",165500,True
+Frontend Developer,7.9,Bachelor's Degree,"Redux, CSS3, TypeScript, HTML5, JavaScript, React, System Design",131000,True
+Data Scientist,4.6,High School / Bootcamp,"Statistical Modeling, NumPy, A/B Testing, Pandas, Python",125500,True
+Software Engineer,5.8,Master's Degree,"Algorithms, Java, Data Structures, Git, System Design",145500,True
+Software Engineer,4.1,Master's Degree,"System Design, Microservices, SQL, Linux, Java, Algorithms, Python, CI/CD",147500,True
+Data Scientist,5.1,Master's Degree,"A/B Testing, SQL, Tableau",133500,True
+Frontend Developer,0.6,Bachelor's Degree,"React, JavaScript, REST APIs, Git, Responsive Design, Redux, TypeScript, Rust",93500,True
+AI Engineer,6.7,Bachelor's Degree,"Transformers, Vector Databases, Python, Deep Learning, RAG, TensorFlow, Rust",177500,True
+Backend Developer,7.8,Bachelor's Degree,"SQL, Node.js, PostgreSQL, Docker",145000,True
+Frontend Developer,6.2,Bachelor's Degree,"TypeScript, Redux, Tailwind CSS, JavaScript, React, REST APIs, Responsive Design",122500,True
+Full Stack Developer,3.0,Master's Degree,"JavaScript, MongoDB, HTML5, PostgreSQL, React, CSS3, TypeScript, Go",144000,True
+DevOps Engineer,7.0,Ph.D.,"Linux, Prometheus & Grafana, CI/CD, Shell / Bash, Terraform, Microservices, Kubernetes",214500,True
+AI Engineer,2.8,Master's Degree,"TensorFlow, Large Language Models, Python, Hugging Face, LangChain, Deep Learning, Vector Databases",152500,True
+DevOps Engineer,8.7,Bachelor's Degree,"Terraform, Nginx, Kubernetes, CI/CD, Microservices, Prometheus & Grafana, Git",165500,True
+Data Scientist,5.4,Associate's Degree,"A/B Testing, Statistical Modeling, Pandas, Tableau, Python, Machine Learning, NumPy, SQL",140000,True
+ML Engineer,12.0,Associate's Degree,"Data Pipelines, Kubernetes, MLOps, Machine Learning, Scikit-Learn, FastAPI, Deep Learning, Python, Large Language Models",193000,True
+Software Engineer,4.7,Bachelor's Degree,"Microservices, SQL, Algorithms",114000,True
+Full Stack Developer,7.5,Bachelor's Degree,"REST APIs, JavaScript, CSS3, Tailwind CSS, Docker, MongoDB, React",158000,True
+Data Scientist,5.6,Bachelor's Degree,"Statistical Modeling, Tableau, A/B Testing",137000,True
+Full Stack Developer,6.8,Master's Degree,"Docker, Tailwind CSS, JavaScript",152500,True
+Software Engineer,4.2,Master's Degree,"SQL, Git, Java, System Design, Algorithms, REST APIs, CI/CD, Microservices",139500,True
+Full Stack Developer,4.8,Associate's Degree,"TypeScript, CSS3, PostgreSQL, React, REST APIs, Express",131000,True
+Data Scientist,4.7,High School / Bootcamp,"Data Wrangling, Data Visualization, Scikit-Learn, Python, Machine Learning",129500,True
+AI Engineer,7.5,Master's Degree,"Hugging Face, Python, TensorFlow, PyTorch, Deep Learning, Transformers, RAG, Large Language Models",200500,True
+DevOps Engineer,7.7,Bachelor's Degree,"Kubernetes, Docker, Terraform, Prometheus & Grafana",156500,True
+Mobile Developer,1.1,Bachelor's Degree,"Mobile UI, Kotlin, React Native, Flutter, Git, Firebase, TypeScript, REST APIs",103000,True
+Data Engineer,6.3,Bachelor's Degree,"ETL, PostgreSQL, Data Pipelines, Apache Spark, Docker",130500,True
+Frontend Developer,3.1,Bachelor's Degree,"React, TypeScript, Git, Responsive Design, HTML5, Tailwind CSS, CSS3",110500,True
+Data Engineer,5.2,Master's Degree,"ETL, Data Warehousing, PostgreSQL, Pandas, Apache Spark, Kafka, Python",150500,True
+ML Engineer,4.1,Bachelor's Degree,"Scikit-Learn, Deep Learning, Pandas, Kubernetes, Machine Learning, Data Pipelines, TensorFlow, System Design",160000,True
+DevOps Engineer,5.5,High School / Bootcamp,"Git, Microservices, Linux",134500,True
+Frontend Developer,4.0,Bachelor's Degree,"REST APIs, HTML5, Redux, React, Git, AWS",117500,True
+AI Engineer,3.9,Bachelor's Degree,"Transformers, Natural Language Processing, Hugging Face, Large Language Models",159000,True
+Full Stack Developer,1.5,Bachelor's Degree,"HTML5, PostgreSQL, Git, Node.js",98500,True
+ML Engineer,3.5,Bachelor's Degree,"Scikit-Learn, Kubernetes, Python, Machine Learning, MLOps, FastAPI",143500,True
+Frontend Developer,8.6,Bachelor's Degree,"CSS3, TypeScript, Redux, Responsive Design, HTML5, REST APIs, React",134000,True
+Software Engineer,1.6,Bachelor's Degree,"Linux, Python, Microservices, System Design, Java, SQL",104000,True
+ML Engineer,4.3,Bachelor's Degree,"MLOps, Data Pipelines, Scikit-Learn, TensorFlow",137000,True
+Cloud Engineer,5.6,Bachelor's Degree,"System Design, AWS, Linux, Kubernetes, Terraform",154000,True
+Frontend Developer,5.1,Bachelor's Degree,"Redux, React, HTML5, JavaScript, CSS3, Responsive Design, TypeScript, Kubernetes",122000,True
+Full Stack Developer,5.0,Master's Degree,"React, REST APIs, Node.js, Docker, HTML5, Tailwind CSS, Express, MongoDB",151000,True
+Full Stack Developer,2.6,Bachelor's Degree,"Tailwind CSS, Node.js, Docker, Express, REST APIs, PostgreSQL, TypeScript",128000,True
+DevOps Engineer,7.0,Master's Degree,"Linux, Git, Kubernetes, Nginx, CI/CD, Terraform, Shell / Bash, AWS, Rust",181500,True
+Software Engineer,8.7,Bachelor's Degree,"System Design, Linux, Algorithms",147000,True
+DevOps Engineer,7.0,Master's Degree,"Git, Prometheus & Grafana, Microservices, CI/CD, Nginx, Terraform",172500,True
+Cloud Engineer,4.2,Master's Degree,"CI/CD, Microsoft Azure, AWS, System Design",154500,True
+Cyber Security Analyst,3.2,Bachelor's Degree,"AWS, Cryptography, Python, Networking",129000,True
+Data Scientist,8.5,Bachelor's Degree,"Pandas, Data Wrangling, Data Visualization, Tableau",163500,True
+Full Stack Developer,2.5,Bachelor's Degree,"HTML5, Express, PostgreSQL, MongoDB, JavaScript",115000,True
+Data Scientist,2.6,Bachelor's Degree,"Scikit-Learn, SQL, A/B Testing, Statistical Modeling, Tableau, Data Wrangling, Machine Learning, Data Visualization",111000,True
+Data Scientist,5.3,Master's Degree,"A/B Testing, Data Wrangling, SQL, Machine Learning",154000,True
+Data Scientist,11.1,Bachelor's Degree,"Machine Learning, SQL, NumPy, A/B Testing, Python, Scikit-Learn, Tableau",170000,True
+AI Engineer,0.5,Bachelor's Degree,"Natural Language Processing, Vector Databases, PyTorch, Kubernetes",123500,True
+DevOps Engineer,2.7,Bachelor's Degree,"Nginx, Terraform, Microservices, Git, Shell / Bash",117500,True
+Cyber Security Analyst,3.0,Bachelor's Degree,"Networking, Python, Penetration Testing, Security Compliance, Incident Response, Docker",128500,True
+Backend Developer,8.1,Bachelor's Degree,"Go, System Design, Microservices, MongoDB, Java, SQL, Rust",156500,True
+DevOps Engineer,10.2,Bachelor's Degree,"Docker, CI/CD, Git, Nginx, Microservices, Kubernetes, Linux, AWS",183000,True
+Frontend Developer,2.6,Bachelor's Degree,"Responsive Design, Tailwind CSS, HTML5, React, TypeScript, CSS3, Git",106000,True
+Cloud Engineer,11.4,Bachelor's Degree,"DevOps, Terraform, CI/CD, System Design, Google Cloud Platform (GCP), Microsoft Azure",197500,True
+Frontend Developer,5.8,Master's Degree,"Git, Redux, Responsive Design",129000,True
+Full Stack Developer,4.9,Bachelor's Degree,"PostgreSQL, Git, JavaScript, TypeScript, Node.js, REST APIs, Tailwind CSS, Docker",138500,True
+Data Scientist,1.5,Bachelor's Degree,"Data Visualization, NumPy, Tableau, Statistical Modeling",105000,True
+Data Scientist,2.7,Ph.D.,"Statistical Modeling, NumPy, A/B Testing, Tableau, Data Wrangling, Python",151500,True
+Full Stack Developer,2.0,Bachelor's Degree,"PostgreSQL, Node.js, Tailwind CSS, REST APIs, HTML5, Express",103500,True
+Frontend Developer,5.3,Bachelor's Degree,"Git, JavaScript, Responsive Design, Redux",115000,True
+Mobile Developer,7.2,Bachelor's Degree,"Swift, React Native, Flutter, TypeScript, Kotlin, Firebase, Mobile UI, Git",142000,True
+AI Engineer,0.4,Bachelor's Degree,"Deep Learning, LangChain, TensorFlow, PyTorch, Python, Large Language Models, Hugging Face, Transformers, System Design",139000,True
+Full Stack Developer,6.9,Bachelor's Degree,"Docker, Node.js, Express, TypeScript",147000,True
+Software Engineer,5.8,Bachelor's Degree,"Microservices, Java, Linux, Python, System Design",125000,True
+Cyber Security Analyst,3.9,Bachelor's Degree,"Penetration Testing, Python, AWS",127000,True
+Cyber Security Analyst,5.7,Master's Degree,"SIEM, Linux, Cryptography, Security Compliance, Networking, Incident Response, Penetration Testing",146000,True
+Cloud Engineer,6.9,Master's Degree,"Linux, Docker, Terraform, CI/CD, Microservices, Google Cloud Platform (GCP)",175500,True
+Cloud Engineer,12.0,Master's Degree,"Microsoft Azure, CI/CD, Terraform, DevOps, AWS, Microservices, Linux, System Design",211500,True
+Frontend Developer,4.1,Associate's Degree,"TypeScript, Tailwind CSS, Redux, JavaScript, React, HTML5, CSS3",110000,True
+Data Engineer,2.0,Bachelor's Degree,"Docker, PostgreSQL, SQL, Data Warehousing, Apache Spark",110500,True
+Data Scientist,5.0,High School / Bootcamp,"Statistical Modeling, Data Wrangling, Data Visualization, A/B Testing, NumPy, Pandas",130000,True
+Cloud Engineer,2.3,Bachelor's Degree,"Terraform, Kubernetes, Linux, Docker, Microsoft Azure, DevOps",122000,True
+Frontend Developer,5.4,Bachelor's Degree,"JavaScript, REST APIs, HTML5, Git, React, Responsive Design, Redux",123500,True
+Full Stack Developer,2.2,Bachelor's Degree,"CSS3, REST APIs, Docker, Git, MongoDB, JavaScript, PostgreSQL",116500,True
+DevOps Engineer,10.5,Bachelor's Degree,"Docker, Microservices, Nginx, AWS, Shell / Bash, CI/CD, Git, Kubernetes",188000,True
+ML Engineer,7.7,Bachelor's Degree,"Kubernetes, Deep Learning, TensorFlow, Python, Docker, Pandas, FastAPI, PyTorch",194500,True
+Software Engineer,10.1,Master's Degree,"CI/CD, SQL, System Design, Java, Algorithms, Microservices, REST APIs",168500,True
+Software Engineer,9.2,Bachelor's Degree,"Algorithms, REST APIs, Data Structures, Linux, SQL, Microservices",159500,True
+Software Engineer,5.4,Master's Degree,"Git, Java, Microservices, Data Structures",136000,True
+DevOps Engineer,5.8,Bachelor's Degree,"AWS, Git, Prometheus & Grafana",144000,True
+Backend Developer,6.4,Associate's Degree,"Go, PostgreSQL, Node.js, Rust",135500,True
+Cloud Engineer,5.6,Master's Degree,"DevOps, Microsoft Azure, Linux, Kubernetes",162500,True
+Backend Developer,8.3,Bachelor's Degree,"Microservices, REST APIs, System Design, FastAPI, SQL, Go, Node.js, Python",160000,True
+Software Engineer,1.5,Master's Degree,"Linux, System Design, Java, Microservices, Data Structures, Git",112000,True
+Data Scientist,4.9,Bachelor's Degree,"Machine Learning, Scikit-Learn, Statistical Modeling",142500,True
+Software Engineer,4.8,Bachelor's Degree,"Data Structures, Algorithms, Microservices, Python, Git, System Design, REST APIs",134500,True
+ML Engineer,4.3,Master's Degree,"Machine Learning, Deep Learning, MLOps, Python, Scikit-Learn, Data Pipelines, TensorFlow, Pandas",167000,True
+Data Scientist,3.0,Bachelor's Degree,"Data Visualization, A/B Testing, Machine Learning, SQL, Statistical Modeling, Python, NumPy, Pandas",130000,True
+Cyber Security Analyst,4.0,Master's Degree,"Cryptography, SIEM, Incident Response, System Design",126000,True
+Backend Developer,6.1,Associate's Degree,"MongoDB, FastAPI, Python, SQL, Node.js, System Design",140500,True
+AI Engineer,1.2,Bachelor's Degree,"Large Language Models, PyTorch, Transformers, Deep Learning, Rust",140000,True
+AI Engineer,4.5,Master's Degree,"Natural Language Processing, Hugging Face, PyTorch, Docker",165500,True
+ML Engineer,5.2,Master's Degree,"Deep Learning, Docker, Machine Learning, PyTorch, MLOps, Python, TensorFlow, FastAPI, Kubernetes",184000,True
+Frontend Developer,4.3,Master's Degree,"React, Redux, REST APIs, Git, TypeScript, JavaScript, CSS3, HTML5",126500,True
+Cloud Engineer,4.7,Bachelor's Degree,"Docker, DevOps, Kubernetes",134500,True
+DevOps Engineer,3.0,Bachelor's Degree,"CI/CD, Prometheus & Grafana, Nginx, Large Language Models",119500,True
+Cloud Engineer,4.7,Bachelor's Degree,"Microservices, CI/CD, Terraform, Microsoft Azure, System Design, Docker",148500,True
+Software Engineer,0.9,Bachelor's Degree,"REST APIs, System Design, Java, Data Structures, CI/CD, Python",100500,True
+ML Engineer,2.1,Bachelor's Degree,"FastAPI, Pandas, Machine Learning, Scikit-Learn, MLOps, TensorFlow, Data Pipelines, Python",137500,True
+Cloud Engineer,0.7,High School / Bootcamp,"AWS, Microsoft Azure, Linux, Terraform",101500,True
+Frontend Developer,2.3,Master's Degree,"Tailwind CSS, Redux, CSS3",104500,True
+Cloud Engineer,9.2,Bachelor's Degree,"Kubernetes, Google Cloud Platform (GCP), Microservices, Docker",192000,True
+Software Engineer,0.4,Bachelor's Degree,"SQL, Algorithms, REST APIs, System Design",95500,True
+ML Engineer,8.8,Master's Degree,"Machine Learning, Kubernetes, Docker, Python, TensorFlow",199500,True
+Cloud Engineer,3.2,Bachelor's Degree,"DevOps, Docker, Microsoft Azure, AWS",135500,True
+Cloud Engineer,3.9,Bachelor's Degree,"DevOps, Docker, CI/CD, Linux",134000,True
+Data Engineer,4.8,Master's Degree,"Data Pipelines, Docker, SQL, Pandas, Kafka, Data Warehousing",143000,True
+Software Engineer,8.0,Master's Degree,"SQL, System Design, CI/CD, Git, Java, Python",162000,True
+Full Stack Developer,1.8,Bachelor's Degree,"Tailwind CSS, Express, Git, Docker",112000,True
+Data Scientist,9.2,Associate's Degree,"NumPy, Statistical Modeling, Data Visualization, Python, Data Wrangling, Pandas, Tableau, SQL, Large Language Models",173500,True
+Backend Developer,8.9,Master's Degree,"Python, System Design, Go",155000,True
+Mobile Developer,0.9,Associate's Degree,"Flutter, React Native, Kotlin, Mobile UI, Firebase",91000,True
+AI Engineer,8.1,Bachelor's Degree,"Large Language Models, Deep Learning, Hugging Face, TensorFlow, System Design",175000,True
+ML Engineer,1.4,Master's Degree,"FastAPI, Kubernetes, Python, MLOps",127500,True
+Data Scientist,5.9,Bachelor's Degree,"Python, Scikit-Learn, A/B Testing, Machine Learning",144500,True
+Data Engineer,1.9,Master's Degree,"Apache Spark, Data Warehousing, AWS",103500,True
+Backend Developer,4.5,High School / Bootcamp,"MongoDB, SQL, FastAPI, Java, Go, REST APIs, Microservices, PostgreSQL",121500,True
+Full Stack Developer,12.4,Bachelor's Degree,"HTML5, Docker, React, Git",168500,True
+Cloud Engineer,12.4,Associate's Degree,"CI/CD, Linux, Terraform, Microsoft Azure",163000,True
+Cloud Engineer,2.1,Master's Degree,"Microsoft Azure, System Design, AWS, CI/CD, Linux",132000,True
+Data Engineer,0.2,Bachelor's Degree,"SQL, Docker, PostgreSQL, Data Pipelines, Data Warehousing, Python, ETL",102000,True
+Data Engineer,7.3,High School / Bootcamp,"Apache Spark, SQL, Data Pipelines, Kafka",142500,True
+DevOps Engineer,0.9,Bachelor's Degree,"AWS, Shell / Bash, Nginx, Kubernetes, Microservices, CI/CD",111000,True
+Full Stack Developer,5.8,Bachelor's Degree,"React, Docker, TypeScript, REST APIs, MongoDB, HTML5",133500,True
+Cloud Engineer,8.0,Bachelor's Degree,"DevOps, System Design, Kubernetes, Microservices, Microsoft Azure, Google Cloud Platform (GCP), AWS, Linux",168500,True
+Software Engineer,9.1,Bachelor's Degree,"Git, Java, CI/CD, Microservices, Data Structures, Algorithms, SQL, System Design",152500,True
+Full Stack Developer,7.1,Bachelor's Degree,"Express, Tailwind CSS, Docker",141500,True
+Full Stack Developer,7.2,Bachelor's Degree,"CSS3, REST APIs, Git",129500,True
+DevOps Engineer,2.9,High School / Bootcamp,"Shell / Bash, Microservices, Terraform, Kubernetes, Nginx, CI/CD, Prometheus & Grafana",127000,True
+Full Stack Developer,6.2,Master's Degree,"TypeScript, CSS3, REST APIs",148000,True
+Data Scientist,1.4,Bachelor's Degree,"Data Visualization, SQL, A/B Testing, Pandas, Data Wrangling, Scikit-Learn, Statistical Modeling",117500,True
+Software Engineer,5.2,Master's Degree,"REST APIs, CI/CD, Microservices, Python, Java",137000,True
+Full Stack Developer,11.0,Bachelor's Degree,"JavaScript, Docker, Tailwind CSS, Express",172000,True
+Data Scientist,2.2,Master's Degree,"Scikit-Learn, Machine Learning, Statistical Modeling, A/B Testing",128000,True
+Cloud Engineer,1.3,Bachelor's Degree,"DevOps, Microsoft Azure, Google Cloud Platform (GCP)",108000,True
+Backend Developer,2.3,Master's Degree,"MongoDB, Microservices, Docker, REST APIs, Node.js",122000,True
+Full Stack Developer,4.4,Master's Degree,"Docker, Git, TypeScript, Express, JavaScript",141000,True
+Data Engineer,7.3,Master's Degree,"Python, Docker, PostgreSQL, Pandas, Kafka, ETL, SQL, Data Warehousing",178500,True
+Mobile Developer,8.8,Master's Degree,"TypeScript, Kotlin, Mobile UI, Swift, Firebase, Git",177000,True
+Data Engineer,4.6,Bachelor's Degree,"ETL, Data Pipelines, Kafka, Pandas, Data Warehousing",132000,True
+Cyber Security Analyst,2.0,Master's Degree,"Incident Response, SIEM, Cryptography, Networking, Linux, Security Compliance, AWS",123000,True
+Software Engineer,9.5,Bachelor's Degree,"System Design, CI/CD, SQL, Git, REST APIs, Java, Microservices, AWS",162000,True
+ML Engineer,7.2,Master's Degree,"FastAPI, Machine Learning, PyTorch, TensorFlow, Data Pipelines",179000,True
+Data Scientist,1.5,Master's Degree,"Data Wrangling, A/B Testing, SQL, Machine Learning, Tableau, Scikit-Learn, Python",135500,True
+AI Engineer,4.7,Bachelor's Degree,"TensorFlow, Transformers, Deep Learning, PyTorch, Natural Language Processing, RAG",173000,True
+Software Engineer,4.7,Bachelor's Degree,"Data Structures, Microservices, REST APIs",124500,True
+AI Engineer,0.8,Bachelor's Degree,"Natural Language Processing, Python, Vector Databases, Deep Learning, PyTorch, Transformers, TensorFlow",139500,True
+Data Scientist,5.4,Associate's Degree,"Statistical Modeling, NumPy, Pandas, Data Visualization, Python, SQL",138000,True
+Data Engineer,3.7,Bachelor's Degree,"Kafka, Pandas, Python, Data Warehousing, Data Pipelines, Docker, AWS, ETL",131000,True
+ML Engineer,3.5,Bachelor's Degree,"Machine Learning, FastAPI, Kubernetes, Scikit-Learn, Deep Learning, PyTorch, Python, Data Pipelines",153500,True
+Software Engineer,3.1,Bachelor's Degree,"REST APIs, Git, Data Structures, Python, Microservices, Algorithms, Java, SQL",125000,True
+Cyber Security Analyst,11.7,Bachelor's Degree,"Networking, Penetration Testing, SIEM, AWS, Security Compliance, Python, Incident Response, Cryptography, Go",182500,True
+Full Stack Developer,0.4,Master's Degree,"Git, JavaScript, Docker",100000,True
+Data Scientist,4.8,Bachelor's Degree,"Machine Learning, Data Visualization, Pandas, SQL, A/B Testing, Statistical Modeling",133000,True
+Data Engineer,4.8,Bachelor's Degree,"PostgreSQL, Docker, Data Warehousing, SQL, Apache Spark, AWS, Python, Kafka",140500,True
+DevOps Engineer,7.6,Bachelor's Degree,"Shell / Bash, Git, Kubernetes, Nginx, AWS",168000,True
+ML Engineer,9.4,Master's Degree,"Python, Pandas, Deep Learning, Kubernetes, Docker, MLOps, PyTorch",213000,True
+Full Stack Developer,2.8,Bachelor's Degree,"Tailwind CSS, TypeScript, Git, MongoDB, HTML5, Docker, Node.js",122500,True
+Software Engineer,3.7,Master's Degree,"System Design, Git, Linux, Algorithms, SQL, REST APIs, CI/CD",130500,True
+Full Stack Developer,3.8,Bachelor's Degree,"Tailwind CSS, TypeScript, Docker, Node.js, JavaScript, HTML5, React, Git",130500,True
+Data Scientist,9.8,Associate's Degree,"Data Visualization, SQL, Scikit-Learn, NumPy, Data Wrangling, Python, Machine Learning, A/B Testing",166500,True
+Software Engineer,2.3,Master's Degree,"CI/CD, Microservices, Linux, Data Structures, Algorithms, Python",113500,True
+Software Engineer,4.2,Associate's Degree,"System Design, Microservices, SQL, REST APIs, Algorithms, Git",118000,True
+Data Engineer,1.2,Bachelor's Degree,"Pandas, Data Pipelines, ETL, Apache Spark, SQL, AWS, Kafka, PostgreSQL",112000,True
+Mobile Developer,1.5,Master's Degree,"Firebase, Mobile UI, TypeScript, Git, Kotlin",110500,True
+Cyber Security Analyst,7.2,High School / Bootcamp,"Security Compliance, Penetration Testing, Incident Response",126000,True
+Data Engineer,11.1,Bachelor's Degree,"Python, Data Pipelines, Docker, SQL, Kafka, Data Warehousing, AWS",178500,True
+Full Stack Developer,9.7,Master's Degree,"CSS3, MongoDB, HTML5, REST APIs, JavaScript, PostgreSQL",161000,True
+Full Stack Developer,10.3,Bachelor's Degree,"MongoDB, HTML5, PostgreSQL, REST APIs, Node.js, Git, React, Tailwind CSS, Rust",184500,True
+Frontend Developer,4.8,High School / Bootcamp,"React, JavaScript, Responsive Design, REST APIs, CSS3, Git",112500,True
+Cloud Engineer,12.1,Bachelor's Degree,"DevOps, Google Cloud Platform (GCP), System Design, Microsoft Azure",182000,True
+Full Stack Developer,2.8,Master's Degree,"Tailwind CSS, REST APIs, MongoDB, JavaScript, TypeScript, HTML5, Node.js",128500,True
+Cloud Engineer,0.8,Associate's Degree,"DevOps, Kubernetes, AWS, Terraform, Microservices",111500,True
+Cyber Security Analyst,1.7,Master's Degree,"Networking, Security Compliance, Penetration Testing, SIEM, Cryptography, Linux",121000,True
+Full Stack Developer,8.0,Master's Degree,"TypeScript, PostgreSQL, Node.js, Express, CSS3, REST APIs, MongoDB",163000,True
+DevOps Engineer,4.5,Bachelor's Degree,"Kubernetes, AWS, Shell / Bash, Git, Terraform, Microservices, Nginx, Docker",151000,True
+Mobile Developer,8.9,Bachelor's Degree,"Git, TypeScript, REST APIs, Flutter, Swift, Mobile UI, React Native, Kotlin, AWS",143000,True
+ML Engineer,0.8,Bachelor's Degree,"Kubernetes, Deep Learning, FastAPI, Data Pipelines, PyTorch, Scikit-Learn, Pandas, Machine Learning, Rust",130000,True
+Backend Developer,5.4,Bachelor's Degree,"Node.js, PostgreSQL, System Design, FastAPI, SQL, Microservices, MongoDB",143000,True
+DevOps Engineer,5.6,Bachelor's Degree,"Microservices, Linux, Terraform, AWS, Nginx",147000,True
+AI Engineer,0.3,Bachelor's Degree,"TensorFlow, Transformers, Hugging Face, RAG, Natural Language Processing",123500,True
+Full Stack Developer,5.7,Master's Degree,"Docker, TypeScript, JavaScript",150500,True
+Cloud Engineer,6.8,High School / Bootcamp,"DevOps, System Design, Linux, Microsoft Azure, Microservices",150000,True
+Backend Developer,3.6,High School / Bootcamp,"SQL, FastAPI, Java, Docker",104500,True
+Full Stack Developer,6.5,High School / Bootcamp,"Node.js, JavaScript, MongoDB, Git, REST APIs",122500,True
+AI Engineer,1.0,Bachelor's Degree,"Large Language Models, Vector Databases, RAG, TensorFlow, Natural Language Processing",139500,True
+Data Scientist,6.3,Master's Degree,"Data Visualization, Statistical Modeling, Data Wrangling, Machine Learning, A/B Testing, NumPy, Scikit-Learn, Docker",161000,True
+ML Engineer,4.9,Master's Degree,"PyTorch, MLOps, TensorFlow, Machine Learning, Docker, Data Pipelines, Pandas, FastAPI",175000,True
+Full Stack Developer,1.4,High School / Bootcamp,"React, JavaScript, Git, Express, MongoDB, CSS3, PostgreSQL",94500,True
+Frontend Developer,10.9,Bachelor's Degree,"React, HTML5, Redux, CSS3, TypeScript, REST APIs",140000,True
+Full Stack Developer,5.1,Bachelor's Degree,"TypeScript, Node.js, CSS3, MongoDB, React, Git, JavaScript",138500,True
+AI Engineer,9.5,Bachelor's Degree,"PyTorch, Hugging Face, TensorFlow",177500,True
+ML Engineer,0.0,Bachelor's Degree,"Pandas, Kubernetes, MLOps",105500,True
+AI Engineer,4.1,Associate's Degree,"Large Language Models, Hugging Face, Natural Language Processing, PyTorch",138000,True
+Cyber Security Analyst,3.0,Bachelor's Degree,"AWS, Linux, Security Compliance",116500,True
+Data Scientist,2.7,Bachelor's Degree,"Data Wrangling, Scikit-Learn, Data Visualization, NumPy, Machine Learning",117500,True
+ML Engineer,2.1,Bachelor's Degree,"MLOps, Deep Learning, Machine Learning, PyTorch, Docker, Pandas, TensorFlow, Data Pipelines, System Design",137500,True
+ML Engineer,9.6,High School / Bootcamp,"Deep Learning, Docker, Data Pipelines",164500,True
+Software Engineer,6.4,Ph.D.,"System Design, Linux, Git, Python, REST APIs, Java, Algorithms",165500,True
+Backend Developer,7.7,High School / Bootcamp,"FastAPI, Python, Java, Node.js",137500,True
+Frontend Developer,3.1,Master's Degree,"TypeScript, Git, CSS3",106500,True
+Data Scientist,1.8,Bachelor's Degree,"Tableau, Scikit-Learn, A/B Testing",109500,True
+Cloud Engineer,6.5,Master's Degree,"System Design, Linux, AWS, Microservices, DevOps, Microsoft Azure, Rust",178000,True
+DevOps Engineer,2.6,Bachelor's Degree,"Git, AWS, Kubernetes, Terraform, CI/CD, Prometheus & Grafana",127500,True
+Cyber Security Analyst,2.1,Bachelor's Degree,"Security Compliance, AWS, Incident Response, Python",115000,True
+Cloud Engineer,1.4,Master's Degree,"AWS, Linux, Terraform, DevOps, Docker, Kubernetes, Microsoft Azure",140500,True
+Data Engineer,5.8,Bachelor's Degree,"Python, Pandas, Data Pipelines, AWS, Docker, Data Warehousing, SQL",153500,True
+Data Scientist,0.3,Bachelor's Degree,"Pandas, Tableau, Scikit-Learn, NumPy, A/B Testing",105000,True
+Cloud Engineer,5.3,Bachelor's Degree,"Kubernetes, Linux, Microsoft Azure, DevOps, System Design, Terraform",155000,True
+Full Stack Developer,6.7,Associate's Degree,"React, CSS3, Tailwind CSS, Go",135500,True
+Cloud Engineer,5.2,Master's Degree,"CI/CD, Google Cloud Platform (GCP), Microsoft Azure, Go",157500,True
+Software Engineer,8.6,Master's Degree,"Python, REST APIs, Java, SQL, Microservices",169000,True
+Cloud Engineer,5.3,Bachelor's Degree,"System Design, DevOps, Linux, Microservices, AWS",147000,True
+Full Stack Developer,2.5,Bachelor's Degree,"TypeScript, React, HTML5",116500,True
+Data Scientist,2.4,Bachelor's Degree,"Data Wrangling, Tableau, Machine Learning, Data Visualization, SQL, AWS",124500,True
+Full Stack Developer,9.8,Associate's Degree,"REST APIs, JavaScript, Docker, CSS3, Git, TypeScript, System Design",158500,True
+Full Stack Developer,7.7,Bachelor's Degree,"React, Git, REST APIs, Docker, JavaScript, MongoDB, HTML5, PostgreSQL",147500,True
+Data Engineer,5.5,Bachelor's Degree,"Data Warehousing, ETL, Docker, AWS",146000,True
+Cloud Engineer,3.0,Bachelor's Degree,"CI/CD, Kubernetes, Microsoft Azure, Microservices, AWS, Go",139000,True
+Data Scientist,5.2,Bachelor's Degree,"Scikit-Learn, Data Wrangling, NumPy, Python, A/B Testing, Pandas, System Design",142500,True
+AI Engineer,2.1,Bachelor's Degree,"LangChain, Natural Language Processing, RAG",140500,True
+DevOps Engineer,1.8,Master's Degree,"Terraform, Linux, Kubernetes, Prometheus & Grafana",124500,True
+Data Scientist,5.9,Associate's Degree,"Pandas, Machine Learning, Python, NumPy, Tableau, Large Language Models",144000,True
+Frontend Developer,8.6,Associate's Degree,"Redux, TypeScript, REST APIs, Git, Responsive Design",133500,True
+Full Stack Developer,5.2,Bachelor's Degree,"Git, TypeScript, REST APIs, Node.js, Tailwind CSS, CSS3, HTML5, React",141000,True
+Frontend Developer,5.4,Bachelor's Degree,"HTML5, TypeScript, Responsive Design",122000,True
+Data Scientist,3.8,High School / Bootcamp,"Data Wrangling, Machine Learning, Pandas",117000,True
+Software Engineer,10.4,Master's Degree,"Data Structures, CI/CD, Algorithms",165000,True
+ML Engineer,3.5,High School / Bootcamp,"TensorFlow, Deep Learning, Scikit-Learn, Python, Docker, Pandas",131500,True
+Full Stack Developer,1.5,Master's Degree,"React, TypeScript, REST APIs, Git, Tailwind CSS, Express, CSS3",125500,True
+Data Scientist,0.1,High School / Bootcamp,"Data Wrangling, NumPy, Statistical Modeling, SQL, Tableau",91500,True
+DevOps Engineer,3.7,Bachelor's Degree,"Terraform, Git, Docker",125500,True
+ML Engineer,0.7,Bachelor's Degree,"Data Pipelines, Scikit-Learn, Python, TensorFlow, PyTorch, FastAPI, Kubernetes, Pandas, Docker",127000,True
+Backend Developer,5.3,Master's Degree,"System Design, Python, SQL, PostgreSQL, FastAPI",132000,True
+Backend Developer,1.1,Bachelor's Degree,"Go, System Design, Docker, FastAPI, Java, PostgreSQL",107500,True
+Cloud Engineer,2.8,Bachelor's Degree,"DevOps, CI/CD, System Design, Terraform",129000,True
+ML Engineer,6.4,Master's Degree,"Data Pipelines, PyTorch, Pandas, Kubernetes, FastAPI",167000,True
+Data Scientist,5.6,Associate's Degree,"Python, Scikit-Learn, NumPy, Tableau, Data Visualization",132500,True
+Frontend Developer,9.1,Bachelor's Degree,"Tailwind CSS, HTML5, Git, React, Redux, Large Language Models",140500,True
+Software Engineer,3.3,Master's Degree,"Microservices, Git, Python",119000,True
+Cloud Engineer,5.7,Master's Degree,"System Design, Microservices, AWS, CI/CD",172000,True
+Full Stack Developer,9.4,Bachelor's Degree,"Git, PostgreSQL, Docker, REST APIs, TypeScript, Node.js",160000,True
+Frontend Developer,1.8,Bachelor's Degree,"TypeScript, Redux, Git, REST APIs, Tailwind CSS, Docker",98000,True
+AI Engineer,7.3,Bachelor's Degree,"Vector Databases, PyTorch, Deep Learning, LangChain, Natural Language Processing, TensorFlow, Transformers, RAG",190500,True
+Cloud Engineer,1.0,Master's Degree,"System Design, Terraform, Microsoft Azure, Google Cloud Platform (GCP), AWS",130000,True
+Full Stack Developer,4.4,Bachelor's Degree,"REST APIs, Node.js, Docker, Git, PostgreSQL, Express, Tailwind CSS, MongoDB",138500,True
+Data Engineer,7.8,Bachelor's Degree,"PostgreSQL, Python, Kafka, Apache Spark, AWS",154500,True
+Mobile Developer,0.8,Bachelor's Degree,"React Native, TypeScript, Git",93500,True
+AI Engineer,7.2,Associate's Degree,"RAG, Hugging Face, Deep Learning, Python, System Design",163500,True
+Frontend Developer,0.5,Ph.D.,"CSS3, JavaScript, Responsive Design, HTML5, Git, REST APIs, React",112500,True
+Data Scientist,2.8,Bachelor's Degree,"A/B Testing, NumPy, Data Visualization, Data Wrangling, Scikit-Learn, SQL, Machine Learning, Pandas",124500,True
+Full Stack Developer,1.0,Bachelor's Degree,"REST APIs, React, CSS3, Docker, PostgreSQL, HTML5, JavaScript, Express",113000,True
+DevOps Engineer,2.7,Ph.D.,"Prometheus & Grafana, Linux, Terraform, CI/CD, Docker, AWS",157000,True
+Full Stack Developer,7.3,Bachelor's Degree,"Git, Tailwind CSS, React, REST APIs, Docker, HTML5, TypeScript, Node.js",142000,True
+Full Stack Developer,1.9,Master's Degree,"React, Tailwind CSS, PostgreSQL",113000,True
+Full Stack Developer,2.8,Bachelor's Degree,"Docker, PostgreSQL, Git, REST APIs, MongoDB, JavaScript, Express, Large Language Models",130500,True
+Backend Developer,0.7,Master's Degree,"REST APIs, Docker, Python, Go, PostgreSQL, FastAPI, System Design",117500,True
+Full Stack Developer,2.3,Bachelor's Degree,"Tailwind CSS, TypeScript, REST APIs, Docker, React, MongoDB, Node.js, CSS3",116500,True
+Software Engineer,2.2,Associate's Degree,"System Design, Data Structures, Java, Linux, Python",102500,True
+DevOps Engineer,6.6,Bachelor's Degree,"Terraform, AWS, Git, Docker",150500,True
+Full Stack Developer,8.5,Bachelor's Degree,"React, TypeScript, Git, Node.js, JavaScript, Express, REST APIs, PostgreSQL",144500,True
+Cloud Engineer,3.9,Bachelor's Degree,"Microservices, AWS, Docker, Kubernetes, Linux, Terraform, CI/CD",148500,True
+Full Stack Developer,8.4,Bachelor's Degree,"TypeScript, JavaScript, Git, CSS3, React, Kubernetes",146500,True
+Cloud Engineer,5.6,Bachelor's Degree,"CI/CD, DevOps, Google Cloud Platform (GCP)",137000,True
+Software Engineer,6.8,Bachelor's Degree,"Python, Java, Linux, Microservices, Algorithms, SQL, Git",142500,True
+Cloud Engineer,5.6,Bachelor's Degree,"Linux, System Design, Microsoft Azure, Docker, Terraform, DevOps, Google Cloud Platform (GCP), AWS, Large Language Models",167000,True
+Cloud Engineer,0.9,Bachelor's Degree,"Terraform, DevOps, Docker, AWS, System Design",116500,True
+Data Scientist,12.4,Bachelor's Degree,"Data Wrangling, A/B Testing, Python, Pandas, SQL, Machine Learning, Statistical Modeling, NumPy",198000,True
+Backend Developer,5.5,Bachelor's Degree,"Microservices, REST APIs, Python, Docker, PostgreSQL",129500,True
+Software Engineer,2.7,High School / Bootcamp,"Git, Python, SQL, REST APIs",93500,True
+Backend Developer,5.0,Master's Degree,"MongoDB, Python, PostgreSQL, REST APIs, Node.js, Go, Microservices, Java",152000,True
+Data Scientist,0.9,Bachelor's Degree,"Machine Learning, Tableau, Pandas, Large Language Models",109000,True
+Frontend Developer,7.8,Master's Degree,"React, HTML5, JavaScript, Git, Redux, CSS3, REST APIs, AWS",147000,True
+Software Engineer,4.4,Bachelor's Degree,"Git, Algorithms, SQL, Microservices, Java, Data Structures, Linux",117500,True
+Frontend Developer,9.4,Ph.D.,"Git, TypeScript, HTML5, CSS3, React, Redux, Tailwind CSS",183000,True
+Cloud Engineer,2.3,Bachelor's Degree,"Microservices, System Design, Linux, Terraform, Microsoft Azure, CI/CD, Google Cloud Platform (GCP), AWS",135000,True
+Frontend Developer,2.8,Bachelor's Degree,"CSS3, REST APIs, Git, TypeScript, Redux, Tailwind CSS",98000,True
+AI Engineer,5.0,Bachelor's Degree,"PyTorch, Hugging Face, Deep Learning",141500,True
+AI Engineer,1.7,Associate's Degree,"PyTorch, Transformers, RAG, Deep Learning, LangChain, TensorFlow, Large Language Models, Natural Language Processing",141500,True
+ML Engineer,3.0,Bachelor's Degree,"Kubernetes, PyTorch, Deep Learning, Machine Learning, Docker, System Design",148500,True
+AI Engineer,7.8,High School / Bootcamp,"Deep Learning, Vector Databases, LangChain",151500,True
+Full Stack Developer,1.1,Master's Degree,"React, Tailwind CSS, REST APIs, Express, CSS3, Docker, TypeScript, MongoDB",118000,True
+Data Scientist,6.8,Bachelor's Degree,"SQL, Data Wrangling, Python, Data Visualization, Machine Learning, Kubernetes",165000,True
+Data Engineer,0.1,Bachelor's Degree,"AWS, Data Pipelines, ETL, Pandas, Apache Spark, Docker, Kafka",108000,True
+Full Stack Developer,0.9,Bachelor's Degree,"MongoDB, React, Docker, JavaScript, TypeScript",109500,True
+DevOps Engineer,0.8,Bachelor's Degree,"Microservices, Terraform, Prometheus & Grafana, Nginx, Linux, CI/CD",121000,True
+Full Stack Developer,3.6,Master's Degree,"HTML5, JavaScript, Docker, PostgreSQL, Tailwind CSS, Git, MongoDB",136500,True
+Frontend Developer,3.6,Bachelor's Degree,"Responsive Design, TypeScript, HTML5, REST APIs, Tailwind CSS, JavaScript, React",112500,True
+Cyber Security Analyst,5.4,Bachelor's Degree,"Incident Response, SIEM, AWS, Python, Cryptography, Rust",150500,True
+Frontend Developer,5.6,High School / Bootcamp,"Responsive Design, JavaScript, CSS3, HTML5, Git, AWS",109500,True
+Backend Developer,3.9,High School / Bootcamp,"SQL, Java, System Design",106500,True
+Full Stack Developer,5.9,Ph.D.,"React, Tailwind CSS, CSS3, MongoDB, Node.js, Docker, HTML5",161500,True
+Full Stack Developer,6.5,Associate's Degree,"Tailwind CSS, CSS3, Git, Express",137500,True
+Full Stack Developer,8.5,Bachelor's Degree,"Git, Tailwind CSS, CSS3, HTML5, REST APIs",141500,True
+Software Engineer,6.3,Bachelor's Degree,"Algorithms, Microservices, System Design, SQL, CI/CD, REST APIs, Java, Data Structures",135500,True
+Software Engineer,5.6,High School / Bootcamp,"Python, Microservices, Algorithms",107500,True
+Cloud Engineer,6.0,Master's Degree,"Microsoft Azure, Kubernetes, Microservices, Linux, Terraform, AWS, Docker, System Design",175500,True
+Frontend Developer,3.7,Bachelor's Degree,"CSS3, Responsive Design, React",100000,True
+ML Engineer,3.7,Bachelor's Degree,"Machine Learning, Docker, Scikit-Learn, Pandas, Python, FastAPI, MLOps, Data Pipelines",147000,True
+ML Engineer,1.3,Bachelor's Degree,"Kubernetes, Docker, FastAPI",119000,True
+Backend Developer,7.9,Ph.D.,"Node.js, SQL, Docker, MongoDB, FastAPI, Microservices",200500,True
+Cloud Engineer,4.4,Master's Degree,"System Design, Docker, Microsoft Azure, AWS, Microservices",164000,True
+Data Scientist,2.9,Master's Degree,"NumPy, Pandas, Python, A/B Testing, Tableau, Statistical Modeling",135500,True
+Frontend Developer,7.4,Master's Degree,"TypeScript, HTML5, REST APIs, Tailwind CSS, CSS3, Responsive Design",148000,True
+Full Stack Developer,1.1,Master's Degree,"JavaScript, Node.js, MongoDB, React, Git, PostgreSQL, HTML5, Kubernetes",121500,True
+Cloud Engineer,10.1,Bachelor's Degree,"System Design, CI/CD, Terraform, Google Cloud Platform (GCP), DevOps, Kubernetes, Microservices, Linux",186500,True
+Data Engineer,4.7,Bachelor's Degree,"Data Warehousing, Python, PostgreSQL, SQL",129000,True
+Full Stack Developer,0.1,Bachelor's Degree,"Git, Tailwind CSS, React, Node.js, MongoDB, Express, Docker, PostgreSQL",98000,True
+Mobile Developer,8.4,Ph.D.,"TypeScript, REST APIs, Kotlin, React Native, Firebase, Flutter, Mobile UI, Swift",179500,True
+Backend Developer,6.4,Associate's Degree,"FastAPI, Microservices, System Design, Java, AWS",133500,True
+Software Engineer,5.0,Master's Degree,"Python, Java, System Design, Data Structures, Microservices, Linux",149500,True
+Frontend Developer,7.9,Bachelor's Degree,"Tailwind CSS, HTML5, TypeScript",136000,True
+AI Engineer,5.0,High School / Bootcamp,"TensorFlow, Natural Language Processing, Hugging Face, Deep Learning, Vector Databases, RAG, Rust",158000,True
+Full Stack Developer,8.8,Bachelor's Degree,"Node.js, Express, PostgreSQL, React, MongoDB",157000,True
+ML Engineer,2.4,Bachelor's Degree,"Docker, Scikit-Learn, Python, MLOps, PyTorch, Machine Learning",126500,True
+Cloud Engineer,8.3,High School / Bootcamp,"DevOps, AWS, CI/CD, System Design, Docker, Terraform",153500,True
+AI Engineer,8.5,Master's Degree,"Transformers, Large Language Models, Natural Language Processing, PyTorch, Rust",207000,True
+Backend Developer,2.9,Bachelor's Degree,"Python, FastAPI, Node.js, REST APIs, MongoDB, PostgreSQL, System Design, Java",129500,True
+Full Stack Developer,12.0,Master's Degree,"REST APIs, MongoDB, HTML5",183500,True
+Cloud Engineer,3.3,Master's Degree,"Microsoft Azure, Terraform, Docker, Google Cloud Platform (GCP)",147500,True
+Frontend Developer,6.4,Master's Degree,"Tailwind CSS, CSS3, Redux, React, JavaScript, Kubernetes",134000,True
+Backend Developer,2.8,Bachelor's Degree,"FastAPI, Node.js, Go, Microservices, System Design, Docker",125500,True
+Data Scientist,2.9,Bachelor's Degree,"Python, Scikit-Learn, Data Visualization, Pandas, NumPy, Machine Learning, Tableau, Data Wrangling",132000,True
+Software Engineer,8.4,Bachelor's Degree,"System Design, SQL, CI/CD, Linux, Algorithms, Data Structures, Git, Java",150000,True
+Data Scientist,4.8,Bachelor's Degree,"Tableau, Scikit-Learn, Pandas, A/B Testing",131500,True
+Full Stack Developer,4.4,Bachelor's Degree,"MongoDB, HTML5, Docker, Large Language Models",122500,True
+ML Engineer,1.9,Bachelor's Degree,"Deep Learning, Python, Kubernetes, Data Pipelines, TensorFlow",126000,True
+Data Engineer,6.7,Master's Degree,"Data Pipelines, SQL, Docker, Python, Data Warehousing, ETL",176000,True
+Data Scientist,4.2,High School / Bootcamp,"NumPy, Data Wrangling, Tableau, A/B Testing, Data Visualization, Pandas, SQL, Python, Go",123500,True
+Software Engineer,6.0,Master's Degree,"SQL, REST APIs, Data Structures, Microservices, Linux, Algorithms, CI/CD, Python",152000,True
+Data Scientist,1.3,Master's Degree,"Pandas, Data Visualization, Data Wrangling, A/B Testing, Tableau",122000,True
+ML Engineer,13.2,Master's Degree,"Python, MLOps, Scikit-Learn",219000,True
+ML Engineer,10.1,Bachelor's Degree,"Docker, Python, Scikit-Learn, Data Pipelines, Pandas, Kubernetes, TensorFlow",194000,True
+Full Stack Developer,4.6,Bachelor's Degree,"Git, Express, Tailwind CSS",120500,True
+Software Engineer,7.2,Bachelor's Degree,"Java, SQL, Linux, Python, REST APIs, Data Structures, AWS",145000,True
+DevOps Engineer,4.2,Ph.D.,"Linux, Git, Shell / Bash",161000,True
+Software Engineer,1.4,Bachelor's Degree,"SQL, Git, Microservices, System Design, Python",103000,True
+Full Stack Developer,3.3,Bachelor's Degree,"React, REST APIs, Node.js, MongoDB",119500,True
+Cloud Engineer,4.4,Master's Degree,"CI/CD, Linux, Google Cloud Platform (GCP), Docker",157500,True
+Data Scientist,1.7,Master's Degree,"Pandas, Scikit-Learn, Python, SQL, Machine Learning, Rust",128500,True
+Full Stack Developer,4.5,Bachelor's Degree,"TypeScript, JavaScript, Tailwind CSS",124000,True
+Backend Developer,8.0,High School / Bootcamp,"Python, Node.js, FastAPI, Go, Docker, SQL, MongoDB, Java",144000,True
+Backend Developer,3.4,Bachelor's Degree,"Node.js, System Design, SQL, Python, Go, MongoDB, FastAPI",131000,True
+Software Engineer,3.8,Bachelor's Degree,"Microservices, Data Structures, CI/CD, Java, Linux, System Design, Algorithms, Git",133000,True
+Full Stack Developer,2.9,Associate's Degree,"Docker, Express, REST APIs, JavaScript, TypeScript",114000,True
+Cloud Engineer,3.4,Bachelor's Degree,"Docker, Google Cloud Platform (GCP), Linux, Terraform, Microservices, AWS",144500,True
+ML Engineer,1.1,Associate's Degree,"Pandas, Data Pipelines, Machine Learning, Deep Learning, FastAPI, Kubernetes",112500,True
+Data Engineer,1.1,Master's Degree,"Data Warehousing, Kafka, AWS, Data Pipelines, Apache Spark, Docker, ETL",129500,True
+Data Engineer,5.2,Bachelor's Degree,"ETL, PostgreSQL, Python, SQL",138500,True
+Software Engineer,2.6,Bachelor's Degree,"System Design, Linux, CI/CD",103500,True
+Full Stack Developer,8.2,Master's Degree,"JavaScript, Git, CSS3, TypeScript, MongoDB, Tailwind CSS, React",163000,True
+Full Stack Developer,6.9,Bachelor's Degree,"PostgreSQL, MongoDB, Tailwind CSS",136000,True
+DevOps Engineer,3.3,Bachelor's Degree,"Microservices, Nginx, AWS, Linux, Terraform, Docker",140500,True
+Backend Developer,4.9,Bachelor's Degree,"REST APIs, MongoDB, Python, Go, Docker",132500,True
+Data Scientist,2.1,High School / Bootcamp,"Data Visualization, Data Wrangling, Tableau, A/B Testing, Pandas, Python, NumPy, Statistical Modeling",109000,True
+Cloud Engineer,6.7,Bachelor's Degree,"Kubernetes, Terraform, CI/CD, Docker, Linux, Microservices, AWS",171500,True
+ML Engineer,5.0,Associate's Degree,"Scikit-Learn, Machine Learning, Data Pipelines, Kubernetes, Docker",144500,True
+Backend Developer,4.0,Bachelor's Degree,"SQL, Docker, Microservices, FastAPI, Java",125000,True
+Cloud Engineer,5.0,Master's Degree,"Kubernetes, DevOps, CI/CD, AWS, System Design, Google Cloud Platform (GCP)",168000,True
+DevOps Engineer,3.9,High School / Bootcamp,"Nginx, Linux, Microservices, Terraform",125500,True
+Cloud Engineer,5.9,Master's Degree,"Linux, DevOps, CI/CD, Microservices, Terraform, AWS",168500,True
+Frontend Developer,2.3,Master's Degree,"JavaScript, TypeScript, Tailwind CSS",108000,True
+Cyber Security Analyst,6.8,Master's Degree,"Security Compliance, Networking, Penetration Testing, SIEM",160000,True
+Cloud Engineer,8.1,Bachelor's Degree,"Terraform, Microservices, CI/CD, Docker, Linux",173000,True
+Software Engineer,2.7,High School / Bootcamp,"SQL, Java, System Design, REST APIs, Algorithms, Linux, Microservices",116000,True
+Data Scientist,12.8,Bachelor's Degree,"A/B Testing, Python, NumPy, Scikit-Learn, Machine Learning, Tableau, Pandas, Data Visualization",176500,True
+DevOps Engineer,5.5,Ph.D.,"Linux, Kubernetes, CI/CD, Git, Microservices",180000,True
+Data Scientist,6.6,Associate's Degree,"Machine Learning, Data Visualization, Statistical Modeling, Data Wrangling, A/B Testing, Python",146000,True
+DevOps Engineer,4.3,Master's Degree,"Docker, Git, Terraform, Prometheus & Grafana, Nginx, AWS, Large Language Models",162000,True
+Cloud Engineer,1.0,Bachelor's Degree,"Microservices, CI/CD, Terraform, Linux",117000,True
+Frontend Developer,1.6,Bachelor's Degree,"Tailwind CSS, React, Redux, HTML5, CSS3, TypeScript, AWS",109000,True
+Cloud Engineer,12.7,Bachelor's Degree,"Microservices, CI/CD, Kubernetes, Microsoft Azure, AWS, Linux, System Design",195500,True
+Software Engineer,6.1,Master's Degree,"Git, System Design, CI/CD, REST APIs, Go",146500,True
+Backend Developer,6.1,Bachelor's Degree,"Go, MongoDB, SQL, Microservices, Node.js, Python",143500,True
+Cyber Security Analyst,2.6,High School / Bootcamp,"Linux, AWS, Python, Networking, Security Compliance, Incident Response, Penetration Testing",120000,True
+Frontend Developer,0.6,Bachelor's Degree,"React, Git, JavaScript, CSS3, TypeScript",89000,True
+ML Engineer,1.6,Associate's Degree,"Deep Learning, Docker, Scikit-Learn",118000,True
+Cyber Security Analyst,7.6,Master's Degree,"Cryptography, Python, Penetration Testing, SIEM, Security Compliance, Docker",162500,True
+Software Engineer,3.6,Associate's Degree,"Python, CI/CD, SQL, Microservices, Algorithms, REST APIs, Rust",121000,True
+Software Engineer,2.7,Bachelor's Degree,"Python, Linux, Data Structures, REST APIs, System Design, Java, Algorithms",113500,True
+Cyber Security Analyst,0.4,Bachelor's Degree,"SIEM, Python, Linux, Go",99000,True
+Cloud Engineer,3.5,Bachelor's Degree,"Terraform, Microservices, Microsoft Azure, Docker, CI/CD, AWS",134000,True
+Data Scientist,8.2,Associate's Degree,"Pandas, NumPy, Data Visualization, SQL, Python",154500,True
+Data Scientist,10.9,Bachelor's Degree,"A/B Testing, Data Wrangling, Pandas, Statistical Modeling, Machine Learning, Kubernetes",186000,True
+ML Engineer,4.8,Bachelor's Degree,"TensorFlow, Data Pipelines, Deep Learning, MLOps, Kubernetes, Python",162000,True
+Cloud Engineer,7.0,Associate's Degree,"CI/CD, Google Cloud Platform (GCP), Linux, Kubernetes, Microservices, System Design",157000,True
+Data Scientist,2.4,Master's Degree,"SQL, Tableau, Data Visualization, Data Wrangling, Python, NumPy, Scikit-Learn",130000,True
+Frontend Developer,0.4,Master's Degree,"TypeScript, Redux, CSS3",96000,True
+Frontend Developer,5.6,Master's Degree,"HTML5, React, TypeScript, Tailwind CSS",130500,True
+AI Engineer,2.0,Bachelor's Degree,"Deep Learning, Vector Databases, Hugging Face, Large Language Models, RAG, LangChain",147000,True
+DevOps Engineer,8.2,High School / Bootcamp,"Docker, CI/CD, Git",139500,True
+AI Engineer,8.4,Bachelor's Degree,"LangChain, Python, PyTorch, TensorFlow, RAG, Transformers",183000,True
+Data Engineer,4.1,Bachelor's Degree,"Python, Data Pipelines, ETL, SQL, Data Warehousing, AWS",128500,True
+Cloud Engineer,12.3,Bachelor's Degree,"Microservices, Linux, Docker, AWS, Kubernetes, System Design, DevOps, Microsoft Azure",205500,True
+Full Stack Developer,9.6,Bachelor's Degree,"Docker, CSS3, JavaScript, React, Express, Node.js",151500,True
+Cloud Engineer,4.2,Bachelor's Degree,"CI/CD, System Design, Terraform, Linux, Microservices",144500,True
+Full Stack Developer,4.9,Bachelor's Degree,"PostgreSQL, Tailwind CSS, TypeScript, CSS3",123000,True
+ML Engineer,4.5,Bachelor's Degree,"TensorFlow, MLOps, Machine Learning",142000,True
+Software Engineer,3.0,High School / Bootcamp,"Git, Data Structures, Linux, Java, SQL, Python, Algorithms",113000,True
+Data Engineer,7.8,Bachelor's Degree,"Apache Spark, Data Pipelines, PostgreSQL",146000,True
+DevOps Engineer,8.8,Associate's Degree,"Prometheus & Grafana, Nginx, Docker, CI/CD",149000,True
+Full Stack Developer,3.1,Bachelor's Degree,"CSS3, Node.js, React, Git, PostgreSQL, REST APIs, Docker",123000,True
+ML Engineer,7.2,Master's Degree,"Machine Learning, Pandas, TensorFlow, Data Pipelines, MLOps, Docker, FastAPI",183000,True
+Mobile Developer,1.1,Ph.D.,"Git, TypeScript, REST APIs, Firebase, Swift, Mobile UI, Kubernetes",121000,True
+Cyber Security Analyst,6.5,Master's Degree,"Cryptography, SIEM, Incident Response, AWS, Security Compliance, Networking, Penetration Testing, System Design",158000,True
+Frontend Developer,2.2,Bachelor's Degree,"Tailwind CSS, React, JavaScript, REST APIs, CSS3, Responsive Design, Git",108000,True
+Frontend Developer,10.7,Bachelor's Degree,"Git, Tailwind CSS, TypeScript, JavaScript, Responsive Design, Redux, HTML5, REST APIs",154500,True
+Full Stack Developer,6.2,Bachelor's Degree,"Node.js, HTML5, Express, MongoDB, React, CSS3, PostgreSQL",140500,True
+Software Engineer,3.4,Associate's Degree,"REST APIs, Java, Microservices, Python, Algorithms, Linux",107500,True
+ML Engineer,6.3,Bachelor's Degree,"Docker, Pandas, MLOps, Deep Learning, Kubernetes, Scikit-Learn, Rust",170500,True
+AI Engineer,5.3,Bachelor's Degree,"Transformers, PyTorch, LangChain, Vector Databases, Python, TensorFlow, Large Language Models",169500,True
+Data Scientist,2.4,Master's Degree,"Scikit-Learn, NumPy, Pandas, Machine Learning, Python, Kubernetes",136000,True
+Software Engineer,1.0,Bachelor's Degree,"CI/CD, Microservices, Data Structures, Linux, Git, SQL",97000,True
+Cyber Security Analyst,2.6,Bachelor's Degree,"SIEM, Linux, AWS, Security Compliance, Python, Cryptography",122500,True
+DevOps Engineer,4.3,Associate's Degree,"Kubernetes, CI/CD, Shell / Bash, Docker, Linux, Nginx, Git",134500,True
+DevOps Engineer,6.6,Master's Degree,"Prometheus & Grafana, Kubernetes, Shell / Bash, AWS, CI/CD, Linux, Docker",174000,True
+Mobile Developer,8.8,Bachelor's Degree,"Flutter, Firebase, TypeScript, Docker",144000,True
+Full Stack Developer,1.6,Bachelor's Degree,"HTML5, React, CSS3",109000,True
+Full Stack Developer,0.7,Bachelor's Degree,"CSS3, TypeScript, Express, JavaScript, HTML5, Tailwind CSS, MongoDB",97500,True
+Full Stack Developer,1.6,Bachelor's Degree,"MongoDB, REST APIs, Node.js",103000,True
+Full Stack Developer,6.9,Ph.D.,"Tailwind CSS, JavaScript, Docker, Git, Express, React, MongoDB, Large Language Models",179000,True
+DevOps Engineer,3.2,Bachelor's Degree,"Linux, Kubernetes, Nginx",129000,True
+Backend Developer,7.3,Master's Degree,"FastAPI, PostgreSQL, Microservices, System Design, Go",157500,True
+Data Engineer,5.7,Bachelor's Degree,"Python, PostgreSQL, AWS",143000,True
+DevOps Engineer,8.4,Bachelor's Degree,"Docker, Prometheus & Grafana, Kubernetes, AWS, Nginx, CI/CD, Linux",176000,True
+DevOps Engineer,0.4,Bachelor's Degree,"AWS, CI/CD, Kubernetes, Linux, Nginx, Git, Shell / Bash, Prometheus & Grafana",121000,True
+Data Engineer,0.5,High School / Bootcamp,"AWS, SQL, Kafka, Docker, Data Warehousing, Pandas, ETL, Data Pipelines",103000,True
+Mobile Developer,8.0,Master's Degree,"Firebase, TypeScript, REST APIs",142000,True
+AI Engineer,7.7,Master's Degree,"Python, Large Language Models, LangChain, Hugging Face",184500,True
+Cyber Security Analyst,10.6,Ph.D.,"Security Compliance, Python, Cryptography, Incident Response, Rust",206500,True
+Software Engineer,4.1,Bachelor's Degree,"Algorithms, Java, CI/CD, System Design, Data Structures",123000,True
+Full Stack Developer,1.2,Bachelor's Degree,"TypeScript, JavaScript, Docker",97000,True
+Cyber Security Analyst,11.2,High School / Bootcamp,"Incident Response, Networking, Linux, SIEM, AWS, Penetration Testing, Cryptography",153000,True
+AI Engineer,9.0,Bachelor's Degree,"Vector Databases, Deep Learning, PyTorch, Transformers, Hugging Face, LangChain",193000,True
+AI Engineer,6.2,High School / Bootcamp,"Vector Databases, TensorFlow, RAG, Large Language Models",149500,True
+Full Stack Developer,1.6,Bachelor's Degree,"REST APIs, React, Docker, Tailwind CSS, Express, HTML5, MongoDB",111500,True
+Software Engineer,10.1,Master's Degree,"REST APIs, SQL, Algorithms",157000,True
+Software Engineer,1.6,Bachelor's Degree,"Microservices, SQL, Git, REST APIs, Data Structures, Java, Python",104000,True
+Frontend Developer,1.1,Bachelor's Degree,"Tailwind CSS, Redux, HTML5, REST APIs, TypeScript, JavaScript, React, CSS3, AWS",101000,True
+AI Engineer,7.1,Bachelor's Degree,"TensorFlow, Natural Language Processing, Large Language Models, Deep Learning, Hugging Face",175500,True
+Full Stack Developer,3.1,Master's Degree,"CSS3, MongoDB, TypeScript, HTML5",124500,True
+Backend Developer,2.1,Master's Degree,"Node.js, System Design, Java, SQL, Go, FastAPI, PostgreSQL, Microservices",135000,True
+Data Scientist,1.8,Bachelor's Degree,"Scikit-Learn, Pandas, Statistical Modeling, NumPy, Python, Tableau, Data Wrangling",126500,True
+Cyber Security Analyst,2.4,High School / Bootcamp,"Incident Response, SIEM, Security Compliance, Penetration Testing, AWS, Networking, Cryptography",101500,True
+ML Engineer,4.8,Bachelor's Degree,"FastAPI, Python, PyTorch, Data Pipelines, Kubernetes, Docker, Machine Learning",153500,True
+Cloud Engineer,9.1,Bachelor's Degree,"AWS, Linux, DevOps, Terraform, Docker, CI/CD, Microservices",192000,True
+Data Scientist,10.5,Bachelor's Degree,"Statistical Modeling, SQL, Scikit-Learn",158000,True
+Frontend Developer,2.8,Master's Degree,"CSS3, HTML5, React, Redux, Tailwind CSS, Responsive Design, REST APIs, JavaScript",117000,True
+Data Scientist,2.8,Ph.D.,"NumPy, A/B Testing, Data Wrangling, Machine Learning, SQL, Scikit-Learn",142500,True
+Backend Developer,1.9,Master's Degree,"Go, Microservices, FastAPI, Docker, Python, Java",122500,True
+Software Engineer,9.8,Bachelor's Degree,"Linux, Git, SQL, Python, Microservices, CI/CD",161500,True
+Data Scientist,5.5,Ph.D.,"Data Visualization, SQL, Tableau, A/B Testing, AWS",184500,True
+Data Scientist,2.4,Master's Degree,"Machine Learning, Python, Pandas, NumPy, Data Wrangling, A/B Testing, Tableau",131000,True
+AI Engineer,3.8,Associate's Degree,"Hugging Face, PyTorch, LangChain, Natural Language Processing, Vector Databases, RAG",155000,True
+Backend Developer,6.1,Bachelor's Degree,"FastAPI, Microservices, PostgreSQL, Go, Python, Node.js, Docker, System Design",145000,True
+Data Scientist,5.7,Associate's Degree,"Machine Learning, Statistical Modeling, Scikit-Learn, Data Visualization, Tableau, SQL, NumPy, Data Wrangling, System Design",141500,True
+Frontend Developer,6.6,Bachelor's Degree,"HTML5, React, CSS3",114500,True
+Software Engineer,8.3,Bachelor's Degree,"REST APIs, CI/CD, Data Structures, Git, Java",138000,True
+AI Engineer,0.7,Master's Degree,"LangChain, Python, Vector Databases, Large Language Models, Docker",130000,True
+ML Engineer,1.6,Associate's Degree,"Deep Learning, Pandas, Python, Machine Learning, FastAPI",123000,True
+ML Engineer,2.6,Bachelor's Degree,"Deep Learning, PyTorch, Python, Kubernetes, FastAPI",144500,True
+ML Engineer,10.0,Bachelor's Degree,"Python, Pandas, MLOps, PyTorch, Kubernetes, Deep Learning, Machine Learning, AWS",197500,True
+AI Engineer,3.3,Master's Degree,"TensorFlow, Deep Learning, Python, LangChain, Large Language Models, RAG, Vector Databases, Hugging Face",171000,True
+ML Engineer,3.9,Bachelor's Degree,"PyTorch, Docker, Pandas, Machine Learning, Scikit-Learn, TensorFlow",154000,True
+Software Engineer,5.9,Bachelor's Degree,"Java, Microservices, SQL, REST APIs, Linux",129500,True
+Full Stack Developer,7.8,Bachelor's Degree,"JavaScript, Node.js, Git, PostgreSQL, TypeScript, Express, REST APIs, HTML5",147000,True
+Full Stack Developer,1.1,Bachelor's Degree,"JavaScript, Node.js, PostgreSQL, Tailwind CSS, HTML5, React, MongoDB, CSS3",109000,True
+Data Engineer,12.0,Bachelor's Degree,"Apache Spark, Pandas, Python, ETL",166000,True
+DevOps Engineer,2.3,Bachelor's Degree,"Prometheus & Grafana, Kubernetes, CI/CD, Docker",125500,True
+Full Stack Developer,7.4,Bachelor's Degree,"Express, React, Node.js, MongoDB, CSS3, Docker",145500,True
+Data Scientist,7.7,Bachelor's Degree,"Data Visualization, A/B Testing, Pandas, Machine Learning, NumPy",147000,True
+Full Stack Developer,11.6,Bachelor's Degree,"React, REST APIs, Git, Express, CSS3, Tailwind CSS, MongoDB",162500,True
+Data Scientist,8.8,Bachelor's Degree,"Python, A/B Testing, Tableau, Statistical Modeling",171000,True
+Data Engineer,3.0,Bachelor's Degree,"SQL, AWS, PostgreSQL, Large Language Models",123500,True
+Data Engineer,9.1,Bachelor's Degree,"Python, AWS, Data Warehousing, Apache Spark, SQL",168500,True
+DevOps Engineer,1.1,Master's Degree,"Linux, CI/CD, Terraform, Docker, AWS",125000,True
+Cloud Engineer,5.6,Bachelor's Degree,"Kubernetes, System Design, DevOps, CI/CD, Microservices, Microsoft Azure",153500,True
+Cyber Security Analyst,0.8,Bachelor's Degree,"Incident Response, Penetration Testing, Linux, Networking",91000,True
+Software Engineer,1.0,Master's Degree,"Data Structures, SQL, System Design, Linux, Docker",108000,True
+Cloud Engineer,1.6,Bachelor's Degree,"Linux, Microservices, Google Cloud Platform (GCP), Microsoft Azure, AWS, System Design",126500,True
+Data Scientist,3.5,Associate's Degree,"Scikit-Learn, Python, Data Wrangling, System Design",125000,True
+ML Engineer,4.1,Bachelor's Degree,"TensorFlow, PyTorch, Pandas, MLOps, Kubernetes",144000,True
+Data Engineer,15.1,Bachelor's Degree,"Python, Data Warehousing, SQL, Kafka",191500,True
+AI Engineer,6.7,High School / Bootcamp,"Transformers, Python, Deep Learning, Vector Databases, LangChain, RAG, TensorFlow, Natural Language Processing",165500,True
+ML Engineer,8.6,Master's Degree,"FastAPI, Machine Learning, MLOps, Scikit-Learn, PyTorch, TensorFlow, System Design",211500,True
+DevOps Engineer,1.5,Ph.D.,"Terraform, Prometheus & Grafana, Kubernetes, Microservices, AWS, Linux",140500,True
+Full Stack Developer,11.3,Master's Degree,"HTML5, CSS3, Express, Node.js",168000,True
+DevOps Engineer,5.7,Master's Degree,"CI/CD, Microservices, Kubernetes, AWS, Git",150000,True
+Frontend Developer,5.3,Bachelor's Degree,"HTML5, CSS3, TypeScript, React, AWS",119000,True
+Full Stack Developer,1.9,Bachelor's Degree,"REST APIs, Node.js, CSS3, MongoDB, HTML5, Git, PostgreSQL",116000,True
+Backend Developer,6.9,Bachelor's Degree,"MongoDB, Java, PostgreSQL, Go, Microservices, System Design",142500,True
+DevOps Engineer,7.9,Ph.D.,"Linux, Microservices, Prometheus & Grafana",184500,True
+Full Stack Developer,6.6,Bachelor's Degree,"Node.js, Docker, Git, JavaScript, React, Tailwind CSS, HTML5, MongoDB",150000,True
+Full Stack Developer,0.5,Bachelor's Degree,"CSS3, TypeScript, REST APIs, Express, PostgreSQL, Node.js",92000,True
+ML Engineer,0.8,High School / Bootcamp,"Scikit-Learn, Docker, Deep Learning, Data Pipelines, FastAPI, TensorFlow, PyTorch, Kubernetes",126000,True
+Full Stack Developer,4.5,Bachelor's Degree,"MongoDB, React, JavaScript, TypeScript, HTML5, Tailwind CSS, AWS",142000,True
+Software Engineer,5.3,Master's Degree,"Python, Java, Algorithms, REST APIs",128500,True
+DevOps Engineer,2.3,Master's Degree,"Nginx, Linux, Prometheus & Grafana, AWS, Docker, Git, Shell / Bash, Microservices, Rust",132000,True
+DevOps Engineer,4.5,Bachelor's Degree,"Kubernetes, Microservices, Terraform, Nginx, CI/CD, AWS, Prometheus & Grafana, Shell / Bash",152000,True
+Cyber Security Analyst,3.5,Bachelor's Degree,"AWS, Networking, Incident Response, Cryptography, Linux, SIEM, Python",129500,True
+Software Engineer,9.2,Bachelor's Degree,"Linux, Git, Python, AWS",140000,True
+ML Engineer,2.7,Bachelor's Degree,"Docker, TensorFlow, Kubernetes, FastAPI, PyTorch, Data Pipelines, Python",145500,True
+Software Engineer,1.4,Master's Degree,"Java, Linux, Git, Microservices, Algorithms, SQL",110000,True
+Full Stack Developer,3.9,Master's Degree,"Docker, MongoDB, Node.js, HTML5, REST APIs, React, Git, TypeScript",143000,True
+Frontend Developer,5.2,Bachelor's Degree,"Git, Redux, TypeScript, React, Tailwind CSS, JavaScript, Responsive Design, REST APIs",128500,True
+Data Scientist,2.1,Master's Degree,"Pandas, Tableau, Scikit-Learn",132000,True
+Backend Developer,1.2,Bachelor's Degree,"Python, Java, MongoDB",94000,True
+Frontend Developer,5.9,High School / Bootcamp,"React, Responsive Design, Git, HTML5, CSS3, REST APIs, JavaScript",117500,True
+Cloud Engineer,2.9,Bachelor's Degree,"Terraform, Linux, DevOps, Kubernetes, Microsoft Azure, Docker",131000,True
+Full Stack Developer,7.5,Master's Degree,"TypeScript, Git, Node.js, Docker, React, JavaScript, Tailwind CSS, HTML5",150000,True
+Mobile Developer,3.8,Associate's Degree,"Kotlin, React Native, REST APIs",99000,True
+Data Engineer,6.8,Master's Degree,"Apache Spark, PostgreSQL, SQL, Data Pipelines, AWS, Pandas, Kafka",164500,True
+Software Engineer,3.8,Master's Degree,"Git, System Design, CI/CD",126500,True
+Cloud Engineer,2.5,Bachelor's Degree,"AWS, Microservices, Linux, Terraform, Microsoft Azure",137000,True
+Software Engineer,3.5,Bachelor's Degree,"REST APIs, Java, CI/CD, Python, Rust",117500,True
+Data Scientist,3.4,Ph.D.,"Machine Learning, Pandas, Data Wrangling, Statistical Modeling, A/B Testing, NumPy, Python, Tableau",163000,True
+DevOps Engineer,2.8,Bachelor's Degree,"Terraform, CI/CD, Prometheus & Grafana",124500,True
+ML Engineer,7.7,Master's Degree,"Kubernetes, MLOps, Deep Learning, Machine Learning, Pandas, FastAPI, Docker",188500,True
+Data Scientist,1.0,Bachelor's Degree,"Python, Data Visualization, Machine Learning, Scikit-Learn, Pandas, NumPy, A/B Testing",112500,True
+ML Engineer,1.4,Bachelor's Degree,"PyTorch, Docker, Machine Learning, Kubernetes, Deep Learning, Data Pipelines",131500,True
+Cloud Engineer,9.2,Ph.D.,"CI/CD, AWS, Docker, Google Cloud Platform (GCP)",199000,True
+DevOps Engineer,4.5,Associate's Degree,"Linux, AWS, Nginx, CI/CD, Terraform",138500,True
+Full Stack Developer,0.0,Bachelor's Degree,"TypeScript, CSS3, React, Express, Tailwind CSS, HTML5, MongoDB",96500,True
+ML Engineer,5.6,Bachelor's Degree,"Scikit-Learn, PyTorch, Data Pipelines, MLOps, Machine Learning, Python, Docker, Pandas, System Design",168500,True
+Data Engineer,4.4,Bachelor's Degree,"Docker, Apache Spark, Pandas, PostgreSQL, Python, Large Language Models",137000,True
+Cyber Security Analyst,9.9,Master's Degree,"Cryptography, Incident Response, Penetration Testing",170000,True
+ML Engineer,0.3,High School / Bootcamp,"Python, PyTorch, MLOps, Docker, Machine Learning, Kubernetes, FastAPI",107500,True
+AI Engineer,4.7,Bachelor's Degree,"Hugging Face, RAG, Vector Databases, Large Language Models, TensorFlow, PyTorch, LangChain",176000,True
+ML Engineer,1.1,Bachelor's Degree,"Kubernetes, Machine Learning, Python, TensorFlow",125000,True
+Mobile Developer,2.2,Bachelor's Degree,"REST APIs, Kotlin, Firebase",97500,True
+Full Stack Developer,6.6,Bachelor's Degree,"Node.js, Tailwind CSS, Git, HTML5, Express, MongoDB, REST APIs",143500,True
+AI Engineer,10.2,Bachelor's Degree,"TensorFlow, Deep Learning, Natural Language Processing, Hugging Face, Transformers, PyTorch",194500,True
+Software Engineer,2.2,High School / Bootcamp,"REST APIs, Algorithms, CI/CD",96000,True
+ML Engineer,6.7,High School / Bootcamp,"FastAPI, Python, Deep Learning",143500,True
+Software Engineer,6.6,Ph.D.,"Linux, SQL, Java",146500,True
+AI Engineer,3.4,Bachelor's Degree,"RAG, PyTorch, Python, Deep Learning, Hugging Face, Large Language Models, TensorFlow, LangChain",162000,True
+Backend Developer,5.6,Associate's Degree,"PostgreSQL, Go, REST APIs, Node.js, Microservices, Docker, Python, SQL, Kubernetes",136500,True
+Software Engineer,1.8,Bachelor's Degree,"System Design, Git, Microservices, SQL, Python, Data Structures, Algorithms, CI/CD",118500,True
+Backend Developer,0.2,Bachelor's Degree,"Microservices, System Design, Node.js, SQL, REST APIs, MongoDB",110000,True
+Full Stack Developer,4.1,Bachelor's Degree,"HTML5, React, MongoDB, Node.js, CSS3, REST APIs, Express, PostgreSQL",138000,True
+ML Engineer,8.9,Bachelor's Degree,"Pandas, PyTorch, Machine Learning, FastAPI, TensorFlow, Python, Data Pipelines, MLOps",181000,True
+Software Engineer,12.1,Master's Degree,"REST APIs, Algorithms, Microservices, Linux, Python, SQL, Java, Rust",186500,True
+DevOps Engineer,2.8,High School / Bootcamp,"Terraform, Docker, Git, AWS, Kubernetes, Microservices, Nginx, System Design",135000,True
+Frontend Developer,4.4,Bachelor's Degree,"Tailwind CSS, REST APIs, JavaScript, React, Git, TypeScript, Responsive Design, Redux, Go",118500,True
+Full Stack Developer,2.1,Bachelor's Degree,"Express, PostgreSQL, REST APIs, Git, Node.js, CSS3, TypeScript, React",104000,True
+Software Engineer,3.5,Master's Degree,"Microservices, Java, CI/CD, Linux, Data Structures, SQL, Algorithms",128500,True
+Full Stack Developer,10.8,High School / Bootcamp,"Git, HTML5, JavaScript, Node.js, Express, React, REST APIs, Docker",147000,True
+Data Scientist,10.6,Ph.D.,"Python, Data Wrangling, Machine Learning, A/B Testing, Tableau, Pandas, Data Visualization",200500,True
+Software Engineer,4.0,Master's Degree,"SQL, Data Structures, Java, System Design, Algorithms, CI/CD, Git, Python",136500,True
+Backend Developer,9.6,Bachelor's Degree,"FastAPI, Node.js, Go",150000,True
+Backend Developer,9.1,Bachelor's Degree,"SQL, FastAPI, Docker, MongoDB, Microservices, REST APIs, Node.js, Java",147500,True
+Software Engineer,9.1,Bachelor's Degree,"Microservices, CI/CD, Java, Python, Go",140500,True
+Data Scientist,10.2,Bachelor's Degree,"Scikit-Learn, Data Wrangling, Statistical Modeling",175000,True
+AI Engineer,4.2,Ph.D.,"Python, Transformers, Large Language Models, LangChain, Natural Language Processing, RAG",200500,True
+Software Engineer,2.8,Bachelor's Degree,"Python, Microservices, System Design, Algorithms, SQL, Git, Linux, Java",118500,True
+AI Engineer,1.1,Bachelor's Degree,"RAG, Hugging Face, PyTorch, Deep Learning, Vector Databases, Transformers, Python, Natural Language Processing",144000,True
+Full Stack Developer,2.5,Bachelor's Degree,"REST APIs, React, Tailwind CSS, Docker",112000,True
+Cloud Engineer,4.4,Bachelor's Degree,"Docker, AWS, CI/CD",138500,True
+Cloud Engineer,2.9,Bachelor's Degree,"Kubernetes, Microsoft Azure, AWS, Google Cloud Platform (GCP), Docker, Microservices, Terraform, Linux, Large Language Models",144500,True
+Frontend Developer,7.4,Associate's Degree,"Tailwind CSS, JavaScript, React, HTML5, TypeScript, Redux, REST APIs, Git",129500,True
+DevOps Engineer,1.4,Bachelor's Degree,"Kubernetes, Docker, CI/CD, Shell / Bash, Prometheus & Grafana, AWS, Linux",121000,True
+Full Stack Developer,2.6,Bachelor's Degree,"Docker, Tailwind CSS, MongoDB",108500,True
+AI Engineer,3.8,Bachelor's Degree,"Hugging Face, LangChain, Transformers, TensorFlow",150000,True
+Data Scientist,5.7,Master's Degree,"SQL, A/B Testing, Data Wrangling",155500,True

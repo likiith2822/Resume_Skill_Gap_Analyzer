@@ -1,0 +1,15 @@
+{
+  "model_type": "RandomForestRegressor",
+  "library": "scikit-learn",
+  "version": "1.10.0",
+  "n_estimators": 120,
+  "training_samples": 552,
+  "test_samples": 98,
+  "r2_score": 0.8089,
+  "mae": 8252.27,
+  "rmse": 10154.79,
+  "num_features": 93,
+  "dataset_file": "salary_dataset.csv",
+  "is_demonstration": true,
+  "trained_at": "2026-08-21T08:39:54"
+}

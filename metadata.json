@@ -1,0 +1,6 @@
+{
+  "name": "Resume Skill Gap Analyzer",
+  "description": "Full-stack Resume Skill Gap Analyzer with React frontend, Chart.js analytics dashboard, SQLite database, Werkzeug authentication, PyMuPDF/docx parsing, spaCy/NLTK NLP, Sentence Transformers semantic matching, Gemini AI Learning Roadmaps, GitHub Profiler, ATS Rewriter & Cover Letter Generator, AI Mock Interview module with speech synthesis/recognition, Market Salary Predictor with Scikit-Learn, and Adaptive Knowledge Quiz powered by Google Gemini API.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
